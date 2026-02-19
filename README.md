@@ -14,8 +14,11 @@ This is a basic React application created using Create React App.
 
 ## 📂 Project Structure
 src/
-├── TaskList.js
-└── App.js
+├── components/
+│ ├── Greeting.js
+│ ├── Navbar.js
+│ └── TextForm.js
+└── App.j
 
 
 ## 🚀 How to Run
@@ -30,10 +33,10 @@ src/
 ## 🧠 Concepts Used
 
 - React Functional Components
+- Props
 - useState Hook
 - Event Handling
-- Array map()
-- Conditional Rendering
+- JSX
 
 ---
 
